@@ -1,5 +1,7 @@
 # 🩺 DiabeSense — Pima Diabetes Prediction App
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](https://rekhas02-diabetes-prediction.streamlit.app/)
+
 A production-grade Streamlit dashboard for diabetes risk prediction using the Pima Indian Diabetes Dataset.
 
 ---
